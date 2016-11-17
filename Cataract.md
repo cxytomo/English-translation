@@ -1,6 +1,4 @@
 #白内障知多少
----
-
 This information was developed by the National Eye Institute to help patients and their families search for general information about cataracts. An eye care professional who has examined the patient’s eyes and is familiar with his or her medical history is the best person to answer specific questions.
 本文由美国国家眼科研究所发布，以解答病人及其家属关于白内障的基本疑问。而回答这些问题的最佳人选自然便是每天替病人检查眼睛并且熟悉病人病史的医生了。
 
