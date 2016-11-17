@@ -56,4 +56,4 @@ Try these conversation starters to talk to absolutely anybody:
 	People love to talk about the things that are important to them. If you know that your boss loves to sail, asking him about his latest trip is a surefire way to get him talking.
   人们喜欢谈论对他们重要的事物。如果你知道你的老板喜欢航行，问他最近的旅行他肯定会和你侃侃而谈的。
   
-  [阅读全文](https://www.linkedin.com/pulse/article/20141027073838-64875646-how-to-start-a-conversation-with-absolutely-anyone?trk=tod-home-art-list-large_0)
+  [阅读原文](https://www.linkedin.com/pulse/article/20141027073838-64875646-how-to-start-a-conversation-with-absolutely-anyone?trk=tod-home-art-list-large_0)
