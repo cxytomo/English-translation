@@ -77,11 +77,11 @@ Age-related cataracts can affect your vision in two ways:
 2. The clear lens slowly changes to a yellowish/brownish color, adding a brownish tint to vision.
 正常透明的晶状体逐渐变成黄/棕色，给图像叠加了一层黄色色调。
 
-As the clear lens slowly colors with age, your vision gradually may acquire a brownish shade. At first, the amount of tinting may be small and may not cause a vision problem. Over time, increased tinting may make it more difficult to read and perform other routine activities. This gradual change in the amount of tinting does not affect the sharpness of the image transmitted to the retina.
-当晶状体随着年龄的增长慢慢变色，你的视力也会慢慢地增加一层棕色的色调。期初，色调可能很浅，不会影响视力。时间一长，色调加深，甚至影响阅读和其他日常的行为。色调的变化并不会影响视网膜成像的清晰度。
+	As the clear lens slowly colors with age, your vision gradually may acquire a brownish shade. At first, the amount of tinting may be small and may not cause a vision problem. Over time, increased tinting may make it more difficult to read and perform other routine activities. This gradual change in the amount of tinting does not affect the sharpness of the image transmitted to the retina.
+	当晶状体随着年龄的增长慢慢变色，你的视力也会慢慢地增加一层棕色的色调。期初，色调可能很浅，不会影响视力。时间一长，色调加深，甚至影响阅读和其他日常的行为。色调的变化并不会影响视网膜成像的清晰度。
 
-If you have advanced lens discoloration, you may not be able to identify blues and purples. You may be wearing what you believe to be a pair of black socks, only to find out from friends that you are wearing purple socks.
-如果你有深度的晶状体褪色情况，你可能无法分辨蓝色和紫色。你可能认为自己穿着一双黑袜子，而你的朋友告诉你，你穿的其实是紫色的袜子。
+	If you have advanced lens discoloration, you may not be able to identify blues and purples. You may be wearing what you believe to be a pair of black socks, only to find out from friends that you are wearing purple socks.
+	如果你有深度的晶状体褪色情况，你可能无法分辨蓝色和紫色。你可能认为自己穿着一双黑袜子，而你的朋友告诉你，你穿的其实是紫色的袜子。
 
 ## When are you most likely to have a cataract?
 ##什么时候最可能患上白内障？
@@ -93,11 +93,11 @@ The term “age-related” is a little misleading. You don’t have to be a seni
 The risk of cataract increases as you get older. Other risk factors for cataract include:
 得白内障的风险伴随着年龄的增长而增长。其他的风险因子包括：
 
-    - Certain diseases such as diabetes.
+- Certain diseases such as diabetes.
     诸如糖尿病之类的疾病
-    - Personal behavior such as smoking and alcohol use.
+- Personal behavior such as smoking and alcohol use.
     个人行为如抽烟喝酒。
-    - The environment such as prolonged exposure to sunlight.
+- The environment such as prolonged exposure to sunlight.
     环境因素，如长时间暴露在日光下。
     
 ## What can I do to protect my vision?
@@ -116,19 +116,19 @@ The most common symptoms of a cataract are:
 最常见的白内障症状是：
 
 - Cloudy or blurry vision.
-    - 视力模糊。
-		- Colors seem faded.
-    — 颜色出现褪色。
-		- Glare. Headlights, lamps, or sunlight may appear too bright. A halo may appear around lights.
-    - 炫光。灯或者阳光显得过于明亮，视物出现光圈。
-		- Poor night vision.
-    - 夜视力很差。
-		- Double vision or multiple images in one eye. (This symptom may clear as the cataract gets larger.)
-    - 单眼出现重影。（这一症状将在白内障长大后变得更加明显。）
-		- Frequent prescription changes in your eyeglasses or contact lenses.
-    - 经常更换眼镜或者隐形眼镜
-		- These symptoms also can be a sign of other eye problems. If you have any of these symptoms, check with your eye care professional.
-    - 这些症状也可能是患有其他眼科疾病的迹象。如果有上述任何症状，记得去看眼科护理医生。
+ 视力模糊。
+- Colors seem faded.
+  颜色出现褪色。
+- Glare. Headlights, lamps, or sunlight may appear too bright. A halo may appear around lights.
+  炫光。灯或者阳光显得过于明亮，视物出现光圈。
+- Poor night vision.
+  夜视力很差。
+- Double vision or multiple images in one eye. (This symptom may clear as the cataract gets larger.)
+  单眼出现重影。（这一症状将在白内障长大后变得更加明显。）
+- Frequent prescription changes in your eyeglasses or contact lenses. 
+  经常更换眼镜或者隐形眼镜
+- These symptoms also can be a sign of other eye problems. If you have any of these symptoms, check with your eye care professional.
+  这些症状也可能是患有其他眼科疾病的迹象。如果有上述任何症状，记得去看眼科护理医生。
 
 ## How is a cataract detected?
 ## 如何检查是否患有白内障？
@@ -143,6 +143,7 @@ Cataract is detected through a comprehensive eye exam that includes:
 
 3. **Tonometry**. An instrument measures the pressure inside the eye. Numbing drops may be applied to your eye for this test.
  **眼压计**。一种测量眼内部压力的仪器，需要事先滴麻醉滴眼液。
+ 
 Your eye care professional also may do other tests to learn more about the structure and health of your eye.
 你的眼科护理医生也会对你的眼部结构和健康做一些检查。
 
