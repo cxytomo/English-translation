@@ -174,10 +174,11 @@ Many people who need cataract surgery also have other eye conditions, such as ag
 There are two types of cataract surgery. Your doctor can explain the differences and help determine which is better for you:
 白内障手术分两种，医生会解释两者的不同并帮你决定哪一种更适合你：
 
-1. **Phacoemulsification**, or**phaco**. A small incision is made on the side of the cornea, the clear, dome-shaped surface that covers the front of the eye. Your doctor inserts a tiny probe into the eye. This device emits ultrasound waves that soften and break up the lens so that it can be removed by suction. Most cataract surgery today is done by phacoemulsification, also called “small incision cataract surgery.”
-白内障超声乳化术。
+1. **Phacoemulsification**, or **phaco**. A small incision is made on the side of the cornea, the clear, dome-shaped surface that covers the front of the eye. Your doctor inserts a tiny probe into the eye. This device emits ultrasound waves that soften and break up the lens so that it can be removed by suction. Most cataract surgery today is done by phacoemulsification, also called “small incision cataract surgery.”
+	白内障超声乳化术。角膜（cornea）完全透明，覆盖眼球前部，呈横椭圆形。在角膜上开一个小切口，在切口处深入超乳探头。探头发射超声波将浑浊的晶状体和皮质击碎为乳糜状后，借助抽吸灌注系统将乳糜状物吸出，同时保持前房充盈，然后植入人工晶体。白内障超声乳化术是当今应用最普遍的白内障手术，又被成为“小切口白内障手术”。
 
 2. **Extracapsular surgery**. Your doctor makes a longer incision on the side of the cornea and removes the cloudy core of the lens in one piece. The rest of the lens is removed by suction.
+	
 After the natural lens has been removed, it often is replaced by an artificial lens, called an intraocular lens (IOL). An IOL is a clear, plastic lens that requires no care and becomes a permanent part of your eye. Light is focused clearly by the IOL onto the retina, improving your vision. You will not feel or see the new lens.
 
 Some people cannot have an IOL. They may have another eye disease or have problems during surgery. For these patients, a soft contact lens, or glasses that provide high magnification, may be suggested.
