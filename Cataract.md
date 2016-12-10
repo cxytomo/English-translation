@@ -29,17 +29,22 @@ The lens must be clear for the retina to receive a sharp image. If the lens is c
 ## 有其他种类的白内障么？
 Yes. Although most cataracts are related to aging, there are other types of cataract:
 是的。尽管大多数的白内障都和老龄化有关，白内障确实有其他不同的种类。
+
 1. **Secondary cataract**. Cataracts can form after surgery for other eye problems, such as glaucoma. Cataracts also can develop in people who have other health problems, such as diabetes. Cataracts are sometimes linked to steroid use.
 **后发性白内障**。白内障手术后可能会伴随残留皮质及囊膜混浊引起的眼部疾病，如青光眼。其他健康问题也可能引发白内障，比如糖尿病。使用类固醇也可能会引发白内障。
+
 2. **Traumatic cataract**. Cataracts can develop after an eye injury, sometimes years later.
 **创伤性白内障**。眼睛受伤也可能引发白内障，有时受伤多年后会发病。
+
 3. **Congenital cataract**. Some babies are born with cataracts or develop them in childhood, often in both eyes. These cataracts may be so small that they do not affect vision. If they do, the lenses may need to be removed.
 **先天性白内障**。有些孩子一出生或者童年成长过程中就患有白内障，两只眼睛都有。但先天性白内障往往很小，不会影响视力。如果影响视力了就需要摘除晶状体。
+
 4. **Radiation cataract**. Cataracts can develop after exposure to some types of radiation.
 **辐射性白内障**。某些辐射也引发白内障。
 
 ![Image viewed bu a person with normal vision](https://nei.nih.gov/sites/default/files/health-images/normal_vision_color.jpg)
 Normal vision（正常人眼看到的图像）
+
 ![As viewed by a cataract person](https://nei.nih.gov/sites/default/files/health-images/cataract_color.jpg)
 The same scene as viewed by a person with cataract（白内障患者看到的图像）
 # Causes and Risk Factors
@@ -59,7 +64,8 @@ Researchers suspect that there are several causes of cataract, such as smoking a
 ##白内障如何影响视力？
 Age-related cataracts can affect your vision in two ways:
 老年性白内障通过两种形式影响人的视力：
-1.Clumps of protein reduce the sharpness of the image reaching the retina.
+
+1. Clumps of protein reduce the sharpness of the image reaching the retina.
 发生黏合的水溶性蛋白降低了视网膜成像的清晰度。
 
 The lens consists mostly of water and protein. When the protein clumps up, it clouds the lens and reduces the light that reaches the retina. The clouding may become severe enough to cause blurred vision. Most age-related cataracts develop from protein clumpings.
@@ -68,7 +74,7 @@ The lens consists mostly of water and protein. When the protein clumps up, it cl
 When a cataract is small, the cloudiness affects only a small part of the lens. You may not notice any changes in your vision. Cataracts tend to “grow” slowly, so vision gets worse gradually. Over time, the cloudy area in the lens may get larger, and the cataract may increase in size. Seeing may become more difficult. Your vision may get duller or blurrier.
 当白内障还小的时候，晶状体只有一小部分发生混浊。你可能不大感觉得到有什么变化。白内障往往长得很慢，因此视视力是慢慢的变差的。时间久了，发生混浊的部分变大，白内障变大。看东西会变得很吃力。你的视力会变得越来越模糊。
 
-2.The clear lens slowly changes to a yellowish/brownish color, adding a brownish tint to vision.
+2. The clear lens slowly changes to a yellowish/brownish color, adding a brownish tint to vision.
 正常透明的晶状体逐渐变成黄/棕色，给图像叠加了一层黄色色调。
 
 As the clear lens slowly colors with age, your vision gradually may acquire a brownish shade. At first, the amount of tinting may be small and may not cause a vision problem. Over time, increased tinting may make it more difficult to read and perform other routine activities. This gradual change in the amount of tinting does not affect the sharpness of the image transmitted to the retina.
@@ -86,6 +92,7 @@ The term “age-related” is a little misleading. You don’t have to be a seni
 ##谁是白内障的危险人群？
 The risk of cataract increases as you get older. Other risk factors for cataract include:
 得白内障的风险伴随着年龄的增长而增长。其他的风险因子包括：
+
     - Certain diseases such as diabetes.
     诸如糖尿病之类的疾病
     - Personal behavior such as smoking and alcohol use.
@@ -107,7 +114,8 @@ If you are age 60 or older, you should have a comprehensive dilated eye exam at 
 ##白内障有什么症状？
 The most common symptoms of a cataract are:
 最常见的白内障症状是：
-		- Cloudy or blurry vision.
+
+- Cloudy or blurry vision.
     - 视力模糊。
 		- Colors seem faded.
     — 颜色出现褪色。
@@ -126,14 +134,18 @@ The most common symptoms of a cataract are:
 ## 如何检查是否患有白内障？
 Cataract is detected through a comprehensive eye exam that includes:
 白内障的检查需要通过全面的眼部检查，包括：
-1.**Visual acuity test**. This eye chart test measures how well you see at various distances.
-1.**视力测试**。视力测试衡量你在不同距离看物的清晰度。
-2.**Dilated eye exam**. Drops are placed in your eyes to widen, or dilate, the pupils. Your eye care professional uses a special magnifying lens to examine your retina and optic nerve for signs of damage and other eye problems. After the exam, your close-up vision may remain blurred for several hours.
-2.**散瞳检查**。医生将药水滴入你的眼中，使瞳孔放大。医生使用一种特殊的放大镜来检查你的视网膜和感光神经是否有损伤，是否有其他眼科疾病。检查后，还有几小时视物模糊。
-3.**Tonometry**. An instrument measures the pressure inside the eye. Numbing drops may be applied to your eye for this test.
-3.**眼压计**。一种测量眼内部压力的仪器，需要事先滴麻醉滴眼液。
+
+1. **Visual acuity test**. This eye chart test measures how well you see at various distances.
+**视力测试**。视力测试衡量你在不同距离看物的清晰度。
+
+2. **Dilated eye exam**. Drops are placed in your eyes to widen, or dilate, the pupils. Your eye care professional uses a special magnifying lens to examine your retina and optic nerve for signs of damage and other eye problems. After the exam, your close-up vision may remain blurred for several hours.
+**散瞳检查**。医生将药水滴入你的眼中，使瞳孔放大。医生使用一种特殊的放大镜来检查你的视网膜和感光神经是否有损伤，是否有其他眼科疾病。检查后，还有几小时视物模糊。
+
+3. **Tonometry**. An instrument measures the pressure inside the eye. Numbing drops may be applied to your eye for this test.
+ **眼压计**。一种测量眼内部压力的仪器，需要事先滴麻醉滴眼液。
 Your eye care professional also may do other tests to learn more about the structure and health of your eye.
 你的眼科护理医生也会对你的眼部结构和健康做一些检查。
+
 # Treatment
 # 治疗
 ## How is a cataract treated?
@@ -160,9 +172,11 @@ Many people who need cataract surgery also have other eye conditions, such as ag
 ## 有哪些不同类型的白内障手术？
 There are two types of cataract surgery. Your doctor can explain the differences and help determine which is better for you:
 白内障手术分两种，医生会解释两者的不同并帮你决定哪一种更适合你：
-1.**Phacoemulsification**, or**phaco**. A small incision is made on the side of the cornea, the clear, dome-shaped surface that covers the front of the eye. Your doctor inserts a tiny probe into the eye. This device emits ultrasound waves that soften and break up the lens so that it can be removed by suction. Most cataract surgery today is done by phacoemulsification, also called “small incision cataract surgery.”
+
+1. **Phacoemulsification**, or**phaco**. A small incision is made on the side of the cornea, the clear, dome-shaped surface that covers the front of the eye. Your doctor inserts a tiny probe into the eye. This device emits ultrasound waves that soften and break up the lens so that it can be removed by suction. Most cataract surgery today is done by phacoemulsification, also called “small incision cataract surgery.”
 白内障超声乳化术。
-2.**Extracapsular surgery**. Your doctor makes a longer incision on the side of the cornea and removes the cloudy core of the lens in one piece. The rest of the lens is removed by suction.
+
+2. **Extracapsular surgery**. Your doctor makes a longer incision on the side of the cornea and removes the cloudy core of the lens in one piece. The rest of the lens is removed by suction.
 After the natural lens has been removed, it often is replaced by an artificial lens, called an intraocular lens (IOL). An IOL is a clear, plastic lens that requires no care and becomes a permanent part of your eye. Light is focused clearly by the IOL onto the retina, improving your vision. You will not feel or see the new lens.
 
 Some people cannot have an IOL. They may have another eye disease or have problems during surgery. For these patients, a soft contact lens, or glasses that provide high magnification, may be suggested.
