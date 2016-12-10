@@ -68,11 +68,11 @@ Age-related cataracts can affect your vision in two ways:
 1. Clumps of protein reduce the sharpness of the image reaching the retina.
 发生黏合的水溶性蛋白降低了视网膜成像的清晰度。
 
-The lens consists mostly of water and protein. When the protein clumps up, it clouds the lens and reduces the light that reaches the retina. The clouding may become severe enough to cause blurred vision. Most age-related cataracts develop from protein clumpings.
-晶状体大部分由水和水溶性蛋白组成。发生黏合蛋白质使晶状体变得混浊，减少了到达视网膜的光线。混浊严重的情况下会导致成像模糊。大多数跟老年性白内障都和水溶性蛋白发生黏合有关。
+	The lens consists mostly of water and protein. When the protein clumps up, it clouds the lens and reduces the light that reaches the retina. The clouding may become severe enough to cause blurred vision. Most age-related cataracts develop from protein clumpings.
+	晶状体大部分由水和水溶性蛋白组成。发生黏合蛋白质使晶状体变得混浊，减少了到达视网膜的光线。混浊严重的情况下会导致成像模糊。大多数跟老年性白内障都和水溶性蛋白发生黏合有关。
 
-When a cataract is small, the cloudiness affects only a small part of the lens. You may not notice any changes in your vision. Cataracts tend to “grow” slowly, so vision gets worse gradually. Over time, the cloudy area in the lens may get larger, and the cataract may increase in size. Seeing may become more difficult. Your vision may get duller or blurrier.
-当白内障还小的时候，晶状体只有一小部分发生混浊。你可能不大感觉得到有什么变化。白内障往往长得很慢，因此视视力是慢慢的变差的。时间久了，发生混浊的部分变大，白内障变大。看东西会变得很吃力。你的视力会变得越来越模糊。
+	When a cataract is small, the cloudiness affects only a small part of the lens. You may not notice any changes in your vision. Cataracts tend to “grow” slowly, so vision gets worse gradually. Over time, the cloudy area in the lens may get larger, and the cataract may increase in size. Seeing may become more difficult. Your vision may get duller or blurrier.
+	当白内障还小的时候，晶状体只有一小部分发生混浊。你可能不大感觉得到有什么变化。白内障往往长得很慢，因此视视力是慢慢的变差的。时间久了，发生混浊的部分变大，白内障变大。看东西会变得很吃力。你的视力会变得越来越模糊。
 
 2. The clear lens slowly changes to a yellowish/brownish color, adding a brownish tint to vision.
 正常透明的晶状体逐渐变成黄/棕色，给图像叠加了一层黄色色调。
