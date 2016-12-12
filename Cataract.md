@@ -175,15 +175,15 @@ There are two types of cataract surgery. Your doctor can explain the differences
 白内障手术分两种，医生会解释两者的不同并帮你决定哪一种更适合你：
 
 1. **Phacoemulsification**, or **phaco**. A small incision is made on the side of the cornea, the clear, dome-shaped surface that covers the front of the eye. Your doctor inserts a tiny probe into the eye. This device emits ultrasound waves that soften and break up the lens so that it can be removed by suction. Most cataract surgery today is done by phacoemulsification, also called “small incision cataract surgery.”
-	白内障超声乳化术。角膜（cornea）完全透明，覆盖眼球前部，呈横椭圆形。在角膜上开一个小切口，在切口处深入超乳探头。探头发射超声波将浑浊的晶状体和皮质击碎为乳糜状后，借助抽吸灌注系统将乳糜状物吸出，同时保持前房充盈，然后植入人工晶体。白内障超声乳化术是当今应用最普遍的白内障手术，又被成为“小切口白内障手术”。
+	**白内障超声乳化术**。角膜（cornea）完全透明，覆盖眼球前部，呈横椭圆形。在角膜上开一个小切口，在切口处深入超乳探头。探头发射超声波将浑浊的晶状体和皮质击碎为乳糜状后，借助抽吸灌注系统将乳糜状物吸出。白内障超声乳化术是当今应用最普遍的白内障手术，又被成为“小切口白内障手术”。
 
 2. **Extracapsular surgery**. Your doctor makes a longer incision on the side of the cornea and removes the cloudy core of the lens in one piece. The rest of the lens is removed by suction.
-	
+	**白内障囊外摘除手术**。白内障囊外摘除术是指在同轴光照明下的显微手术，其手术方式是刺破并撕去前囊中央部分，将晶体核娩出，用白内障同步注吸针头吸净周边囊袋内的皮质，保留完整的晶体后囊和周边的前囊。	
 After the natural lens has been removed, it often is replaced by an artificial lens, called an intraocular lens (IOL). An IOL is a clear, plastic lens that requires no care and becomes a permanent part of your eye. Light is focused clearly by the IOL onto the retina, improving your vision. You will not feel or see the new lens.
+晶状体被移除后，将植入一个人造的晶体，又称人工晶状体（IOL）。人工晶状体为透明的塑料晶体，它将永久的成为你眼睛的一部分，并且无需后期的保养。人工晶状体能够将光线清晰得聚焦到视网膜上从而提升你的视力。你不会有任何异物感也不会看到新的晶状体。
 
 Some people cannot have an IOL. They may have another eye disease or have problems during surgery. For these patients, a soft contact lens, or glasses that provide high magnification, may be suggested.
-
-
+有些人由于患有其他眼疾或者手术环节中产生问题，不能植入人工晶状体。对于这些病人，
 ## What are the risks of cataract surgery?
 As with any surgery, cataract surgery poses risks, such as infection and bleeding. Before cataract surgery, your doctor may ask you to temporarily stop taking certain medications that increase the risk of bleeding during surgery. After surgery, you must keep your eye clean, wash your hands before touching your eye, and use the prescribed medications to help minimize the risk of infection. Serious infection can result in loss of vision.
 
